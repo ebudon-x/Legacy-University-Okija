@@ -1,0 +1,20 @@
+body{
+    background-color: #EAF6F6;
+}
+.fa-star{
+    color: gold;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px 50px;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+}
+h1,h3{
+    color: #66bfbf;
+}
